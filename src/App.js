@@ -23,7 +23,7 @@ function App() {
       timeline: {
         type: "month",
         popower: true,
-        currentTimeIndicator: true,
+        currentTimeIndicator: false,
         timezones: ["Asia/Tashkent"],
       },
     };
